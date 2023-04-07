@@ -30,8 +30,8 @@ Gosto de aprender coisas novas e me antenar com as grandes tecnologias do mercad
  - IAC AWS (infraestrutura como código - projeto curso) 
  - Angular
  - Html
- - css
- - typeScript
+ - Css
+ - TypeScript
 <br>
 
 <a href="https://www.linkedin.com/in/matheuspieropan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
