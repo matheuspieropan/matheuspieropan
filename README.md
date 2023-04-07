@@ -10,11 +10,7 @@
 
 ###
 
-Sou desenvolvedor JAVA e trabalho atualmente na Solutis. Me encontro totalmente apaixonado pela área como um todo. 
-Desde o front até o back-end. 
-Recentemente tenho me aventurado em conhecimentos em DevOps também. 
-Tenho feito investimentos próprios na minha capacitação profissional com desejo de me tornar um profissional mais completo. 
-Gosto de aprender coisas novas e me antenar com as grandes tecnologias do mercado. Aceito desafios e o que eu não souber, me dê um tempinho que aprendo ;)
+Sou desenvolvedor JAVA e trabalho atualmente na Solutis . Sou apaixonado pela área de tecnologia, desde o front-end até o back-end. Recentemente tenho me aventurado nos conhecimentos devOps. Tenho investido nos meus conhecimentos com intuito de me tornar um profissional mais completo. Gosto de aprender coisas novas e me antenar com as tecnologias do mercado. Aceito desafios e o que eu não souber me dê um tempinho que aprendo ;)
 
 ```Algumas das tecnologias que já atuei/possuo conhecimento```
 
