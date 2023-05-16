@@ -22,7 +22,7 @@ Sou desenvolvedor JAVA e trabalho atualmente na Solutis . Sou apaixonado pela á
  - RabbitMQ/Kafka
  - Git
  - Maven
- - AWS (fundamentos básicos)
+ - AWS (fundamentos)
  - IAC AWS (infraestrutura como código - projeto curso) 
  - Angular
  - Html
