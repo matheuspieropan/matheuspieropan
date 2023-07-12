@@ -1,4 +1,4 @@
-# BEM-VINDO 😊
+# Seja bem-vindo
 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="25" widht="25"/>
@@ -10,24 +10,7 @@
 
 ###
 
-Senior Software Engineer na Solutis Tecnologias, apaixonado por tecnologia e um entusiasta do java
-
-```Algumas das tecnologias que já atuei/possuo conhecimento```
-
- - Java
- - Spring Boot
- - Spring Data
- - Spring secutiry
- - Spring cloud
- - RabbitMQ/Kafka
- - Git
- - Maven
- - AWS (fundamentos)
- - IAC AWS (infraestrutura como código - projeto curso) 
- - Angular
- - Html
- - Css
- - TypeScript
+Senior Software Engineer na Solutis Tecnologias. Apaixonado por tecnologia e um entusiasta do java 😄
 <br>
 
 <a href="https://www.linkedin.com/in/matheuspieropan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
